@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-### Clone and go the project root folder
+### Clone and change directory to project root folder
 ```
 git clone https://github.com/ibrahimawadhamid/django_react_template.git
 cd django_react_template\src\python(2 or 3)\mysite
